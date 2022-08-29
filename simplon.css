@@ -1,0 +1,66 @@
+
+ 
+ /*agrandir l'image*/
+ .img{
+   width: 100%;    
+   height: 500px;;
+   
+ }
+  /*agrandir le tablequ*/
+
+  
+  .bloc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 905px;
+    height: 150px;
+    background-color: red;
+   margin: 5px;
+    
+  }
+  
+  body{
+    background: rgb(0,0,0);
+  }
+  
+  button {
+    margin: auto;
+    display: block;
+  }
+    
+  p{
+    transform:rotate(90deg);
+    color: black;
+    font-size: 30px;
+    font-weight:bold;
+  }
+  p{
+    transform:rotate(90deg);
+    color: blue;
+    font-size: 30px;
+    font-weight:bold;
+  }
+  
+  
+  
+  #ibou{
+  
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+ /*le fon du page*/
+ body{
+  background-color: aqua;
+  margin: 0;
+  padding: 0;
+ }
+ /*centraliser le titre du tableau*/
+ h1{
+  text-align: center;
+ }
+ 
+      
